@@ -1,0 +1,327 @@
+{
+  "We always knew you two would tie the knot.": {
+    "Get married": 1,
+    "Divorce": 0,
+    "live together": 0
+  },
+  "Meanwhile, I was ready to have the time of my life.": {
+    "get an adrenaline rush": 0,
+    "disappointed": 1,
+    "have fun": 0
+  },
+  "So I'm a little behind the times.": {
+    "old": 1,
+    "young": 0,
+    "tired": 0
+  },
+  "Everything's going like clockwork, Bella.": {
+    "everything is going according to plan": 1,
+    "to have some troubles": 0,
+    "everything is not going according": 0
+  },
+  "Sure, that will happen - when pigs fly!": {
+    "tomorrow": 0,
+    "never": 1,
+    "maybe": 0
+  },
+  "He buys me flowers once in a blue moon.": {
+    "often": 0,
+    "never": 0,
+    "rarely": 1
+  },
+  "She looks like a million dollars.": {
+    "amazing": 1,
+    "badly": 0,
+    "normal": 0
+  },
+  "This shop is working around the clock.": {
+    "24 hours": 1,
+    "some time": 0,
+    "don’t work at all": 0
+  },
+  "A storm in a teacup, that's all.": {
+    "underestimate": 0,
+    "exaggerate": 1,
+    "everything is ok": 0
+  },
+  "Of course, governments cannot always be ahead of the curve.": {
+    "outstrip": 1,
+    "lag": 0,
+    "overtake": 0
+  },
+  "Why get off the gravy train, right?": {
+    "easy money": 1,
+    "heavy money": 0,
+    "honest work": 0
+  },
+  "I've been snowed under with work. I promise I'll make it up": {
+    "leisure": 0,
+    "free": 0,
+    "very busy": 1
+  },
+  "The company has been in the red for three years now": {
+    "unprofitable": 1,
+    "profitable": 0,
+    "lucrative": 0
+  },
+  "You're just too hung up on her.": {
+    "obsessed": 1,
+    "free": 0,
+    "leisure": 1
+  },
+  "That sounds like something that should cost a pretty penny.": {
+    "cost cheap": 0,
+    "cost a lot of money": 1,
+    "cost inexpensive": 0
+  },
+  "After years of hard work, they will get the big time.": {
+    "little success": 0,
+    "big success": 1,
+    "tiny success": 0
+  },
+  "After he heard the news, Tom was in seventh heaven.": {
+    "very upset": 0,
+    "very happy": 1,
+    "very angry": 0
+  },
+  "My boss was pressed for time so I did not have a chance to speak to him.": {
+    "have no time": 0,
+    "busy": 1,
+    "angry": 0
+  },
+  "Now everything changed like lightning.": {
+    "very slow": 0,
+    "very deliberately": 0,
+    "very fast": 1
+  },
+  "This shame must be avoided at all costs.": {
+    "any way": 1,
+    "unnecessary": 0,
+    "possibly": 0
+  },
+  "UNO -United Nations...": {
+    "occupation": 0,
+    "oppression": 0,
+    "organization": 1
+  },
+  "Our next meeting will be on Monday at 10 a.m.": {
+    "evening": 0,
+    "morning": 0,
+    "night": 1
+  },
+  "Как расшифровывается аббревиатура BRB?": {
+    "by the way": 0,
+    "be right back": 1,
+    "back to work": 0
+  },
+  "2nite I plan to go to a concert.": {
+    "today": 0,
+    "tomorrow": 0,
+    "tonight": 1
+  },
+  "AKA -also known …": {
+    "as": 1,
+    "although": 0,
+    "around": 0
+  },
+  "BTW she was good at Math at school.": {
+    "by the way": 1,
+    "by the time": 0,
+    "by the sea": 0
+  },
+  "The library is open from 9 a.m. to 8 p.m.": {
+    "evening": 1,
+    "morning": 0,
+    "tonight": 0
+  },
+  "I'm sorry. I'm in hurry. TTYL.": {
+    "talk to you soon": 0,
+    "talk to you later": 1,
+    "talk to you tomorrow": 0
+  },
+  "2moro is the last day of school!": {
+    "today": 0,
+    "tomorrow": 1,
+    "tonight": 0
+  },
+  "But together, IMHO, they're perfect for each other.": {
+    "in my opinion": 0,
+    "in my view": 0,
+    "in my honest opinion": 1
+  },
+  "2day was an awful day.": {
+    "today": 1,
+    "tomorrow": 0,
+    "tonight": 0
+  },
+  "UAE -United Arab...": {
+    "Energies": 0,
+    "Emirates": 1,
+    "Erosion": 0
+  },
+  "e.g.": {
+    "for example": 1,
+    "example": 0,
+    "instance": 0
+  },
+  "X-mas": {
+    "Easter": 0,
+    "Christmas": 1,
+    "New Year": 0
+  },
+  "Comfy": {
+    "coincidence": 0,
+    "comfortable": 1,
+    "commencement": 0
+  },
+  "Telly": {
+    "telephone": 0,
+    "temper": 0,
+    "television": 1
+  },
+  "w8": {
+    "wait": 1,
+    "waist": 0,
+    "waste": 0
+  },
+  "To know everything is to know...": {
+    "nothing": 1,
+    "everything": 0,
+    "nobody": 0
+  },
+  "Don’t judge a book by its…": {
+    "cover": 1,
+    "cage": 0,
+    "cape": 0
+  },
+  "Faithful friend is better than...": {
+    "diamond": 0,
+    "rock": 0,
+    "gold": 1
+  },
+  "East or... — home is best.": {
+    "South": 0,
+    "West": 1,
+    "North": 0
+  },
+  "An Englishman’s house is his...": {
+    "castle": 1,
+    "dwelling": 0,
+    "house": 0
+  },
+  "As you make your bed, so you must ... on it.": {
+    "lie": 0,
+    "dream": 1,
+    "jump": 0
+  },
+  "'За двумя зайцами погонишься, ни одного не поймаешь' - 'All covet, all...'.": {
+    "lose": 1,
+    "become": 0,
+    "appear": 0
+  },
+  "'An hour in the morning is worth two in the evening'.": {
+    "Старый друг лучше новых двух": 0,
+    "Утро вечера мудренее": 1,
+    "Все до поры до времени": 0
+  },
+  "С кем в английской пословице 'As busy as a...' сравнивается занятый человек?": {
+    "mouse": 0,
+    "bee": 1,
+    "cat": 0
+  },
+  "'Будет и на нашей улице праздник.' А как звучит она по-английски?": {
+    "Every bird has his nest": 0,
+    "Every dog has his day": 1,
+    "East or west — home is best": 0
+  },
+  "In for a ..., in for a pound.": {
+    "cent": 0,
+    "penny": 1,
+    "dollar": 0
+  },
+  "Time is great ...  - Время лечит": {
+    "healer": 1,
+    "worker": 0,
+    "painter": 0
+  },
+  "When someone goes bananas, what happens to the person?": {
+    "he goes shopping": 0,
+    "he becomes rich and famous": 0,
+    "he goes crazy": 1
+  },
+  "If you are down in the mouth, how do you feel?": {
+    "upset": 1,
+    "angry": 0,
+    "hungry": 0
+  },
+  "If you pay through the nose for something, what does it mean?": {
+    "you refuse to pay": 0,
+    "you pay a small sum of money": 0,
+    "you pay a big sum of money": 1
+  },
+  "They get on like a house on fire. What does it mean?": {
+    "they are always quarreling": 0,
+    "they get on very well": 1,
+    "they hate each other": 0
+  },
+  "If you get butterflies in your stomach before an exam, how do you feel?": {
+    "hungry": 0,
+    "nervous": 1,
+    "shy": 0
+  },
+  "My English exam was a piece of cake.” What does it mean?": {
+    "it was very easy": 1,
+    "it was very difficult": 0,
+    "it was too long": 0
+  },
+  "If someone is under the weather, how do they feel?": {
+    "a bit ill": 0,
+    "in a good mood": 1,
+    "shy": 0
+  },
+  "If you get butterflies in your stomach before an exam, how do you feel?": {
+    "hungry": 1,
+    "nervous": 0,
+    "annoyed": 0
+  },
+  "If your computer is out of date, what does it mean?": {
+    "it is old": 1,
+    "it is broken": 0,
+    "there is something wrong with its clock": 0
+  },
+  "When someone hits the roof, how does this person feel?": {
+    "happy": 0,
+    "angry": 1,
+    "a bit annoyed": 0
+  },
+  "If you have got a sweet tooth, what kind of things do you like to eat?": {
+    "cakes and chocolates": 1,
+    "fish and chips": 0,
+    "cucumbers and tomatoes": 0
+  },
+  "to be in the red-": {
+    "be angry": 0,
+    "be surprised": 0,
+    "incur losses": 1
+  },
+  "yellow-bellied-": {
+    "ill": 0,
+    "happy": 0,
+    "cowardly": 1
+  },
+  "to be ticked pink-": {
+    "to be delighted": 1,
+    "to be very young": 0,
+    "to be in love": 0
+  },
+  "white elephant-": {
+    "a dream": 0,
+    "a waste of money": 1,
+    "a nice person": 0
+  },
+  "green hand-": {
+    "happy": 0,
+    "successful": 0,
+    "inexperienced": 1
+  }
+}
